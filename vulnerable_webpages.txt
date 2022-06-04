@@ -1,0 +1,54 @@
+List of CTF/hack/wargames/vulnerable webpages (2017/06/08)
+
+ONLINE - you can start fun on the website (online challenge)<br>
+OFFLINE - you have to download software to your computer<br>
+WEB - type of vulnerability<br> 
+VM - virtual machine <br>
+CODE - software is code and you have to install on your virtual machine<br>
+LOGIN - Website require create account<br>
+NO LOGIN - Website not require create account<br><br>
+
+(ONLINE / LOGIN) https://hack.me
+(ONLINE / LOGIN) https://www.hackthis.co.uk/levels
+(ONLINE / LOGIN) http://enigmagroup.org
+(ONLINE / LOGIN) https://lab.pentestit.ru
+(ONLINE  / NO LOGIN) http://overthewire.org/wargames
+(ONLINE  / NO LOGIN) http://smashthestack.org
+(ONLINE  / NO LOGIN) http://ctf.infosecinstitute.com/index.php
+(ONLINE / LOGIN) https://ctf365.com
+(ONLINE / LOGIN) https://www.root-me.org/?lang=en
+(OFFLINE / VM) https://exploit-exercises.com/
+(OFFLINE / VM) http://www.cis.syr.edu/~wedu/seed/index.html
+(ONLINE / LOGIN) http://www.wechall.net/challenge/warchall/begins/index.php
+(OFFLINE / WEB / CODE) http://www.dvwa.co.uk/
+(OFFLINE / WEB / VM) https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project#tab=Main
+(OFFLINE / WEB / CODE) https://www.owasp.org/index.php/OWASP_Mutillidae_2_Project
+(OFFLINE / WEB / VM) http://sourceforge.net/projects/hackxor/
+(OFFLINE / WEB / VM / CODE) http://exploit.co.il/projects/vuln-web-app/
+(OFFLINE / WEB / VM) https://sourceforge.net/projects/lampsecurity/?source=recommended
+(OFFLINE / WEB / VM) https://sourceforge.net/projects/virtualhacking/?source=recommended 
+(OFFLINE / WEB / VM) https://sourceforge.net/projects/metasploitable/?source=recommended 
+(OFFLINE / WEB / CODE) https://sourceforge.net/projects/exploitcoilvuln/?source=recommended
+(OFFLINE / WEB / CODE) https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project#tab=Project_About
+(ONLINE / WEB / NO LOGIN) http://vicnum.ciphertechs.com/
+(ONLINE / WEB / NO LOGIN) http://www.try2hack.nl/
+(OFFLINE / WEB / CODE) https://sourceforge.net/projects/peruggia/
+(ONLINE / LOGIN) https://www.hellboundhackers.org/
+(ONLINE / LOGIN) https://www.hackthis.co.uk/
+(OFFLINE / WEB / CODE) https://github.com/bkimminich/juice-shop
+(OFFLINE / WEB / CODE) https://github.com/Hackademic/hackademic
+(ONLINE / WEB / LOGIN) http://www.slavehack.com/index.php?page=highscore
+(VM / WEB / VM) http://hackxor.sourceforge.net/cgi-bin/index.pl
+(OFFLINE / WEB / CODE) https://github.com/psiinon/bodgeit
+(OFFLINE / WEB / CODE) https://www.owasp.org/index.php/OWASP_Bricks
+(OFFLINE / WEB / CODE) http://securitycompass.github.io/AndroidLabs/index.html
+(ONLINE / WEB / NO LOGIN) https://xss-game.appspot.com/
+(ONLINE / WEB / LOGIN) https://w3challs.com/
+(OFFLINE / WEB / CODE) https://sourceforge.net/projects/thebutterflytmp/
+(OFFLINE / WEB / CODE) https://www.owasp.org/index.php/Category:OWASP_Insecure_Web_App_Project
+(ONLINE / WEB / LOGIN) http://crackme.cenzic.com/kelev/view/home.php
+(ONLINE / WEB / LOGIN) http://zero.webappsecurity.com/index.html
+(ONLINE / WEB / LOGIN) http://reversing.kr/index.php
+(ONLINE / CTF / LOGIN) https://ringzer0team.com/
+(VM / CTF / LOGIN) https://www.hacking-lab.com/Remote_Sec_Lab/
+(MISC) https://www.vulnhub.com/
