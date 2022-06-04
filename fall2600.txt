@@ -1,0 +1,36 @@
+My take on the Autumn 2017 2600 is that the “meat” of this is contained in the articles:
+
+01) Bypass Your ISP’s DNS and Run A Private OpenNIC Server
+02) PHP Backdoors
+03) Enhancing SQL Injection With Stored Procedures
+04) (learn (LISP))
+05) Reverse Engineering Electronic Letter and Number Toys
+06) A Test Harness for Fuzzing Font Parsing Engines in Web Browsers
+07) CITIZEN ENGINEER (introductory guide for PI-Hole advertisement filtering!)
+
+Although the meat in this issue is not super juicy, I do have plans to build a PI-Hole system following the example in the CITIZEN ENGINEER article. After my experiences on HTB’s MIRAI server challenge, my curiosity for this system is at an all-time high. I do plan on recommending security enhancements to 2600 Letters Section for changing the default Raspberry password, & implementing access control for the Admin Panel because passwordless entry is granted when the pi-hole DNS is used. After that, I believe anybody could use one’s Pi-Hole! Lol.
+
+Running an OpenNIC server also sounds intriguing, because it sounds easy, & grants one access to special TLDs not normally available to the typical internet user.
+
+The Test Harness for Fuzzing Font Parsing is also an excellent article, for anyone interested in either securing, or subverting web browsers, using fonts. I believe is essential for white hats to do this, & uncover vulnerabilities, before black hats do. I see this as a race to the finish line.
+
+PHP Backdoors is basic, but scary. The IDS/Antivirus tactics are rudimentary, but effective, & should be thought about heavily by sysadmins, developers, & system crackers.
+
+Enhancing SQL Injection is Microsoft specific. The stored procedures discussed are supposedly “undocumented”, but I cannot attest to this statement. Seems like basic stuff to me, but if they are undocumented, these should be memorized by protesters, SQL Injection enthusiasts, & give reverse engineers motivation to uncover other undocumented features in non-opensource software.
+
+Learn LISP is a sycophantic love story about LISt Processing. Well, it reads that way. Obviously the author wants programmers to get into LISP, probably to spur AI related development. Or they just really enjoy the language & want to share.
+
+Reverse Engineering toys is a must read for hardware hackers, just because that kind of information is kinda rare in 2600, so appreciate it if you can.
+
+Everything else in the magazine is potatoes to go with you meat (potatoes are good! but not that nourishing.) I enjoyed the “How to Hack Your Way to a Guilt-Free, Political Ideology” because I agree with the author that politics do tend to get int the way of bringing people together. Rather than finding common ground, people are always looking to find differences in others, & ways to tear them down. Liberal vs. Conservative, Pro-Life vs. Pro-Choice, Global Warming: Man-Made vs. Natural-Phenomena, etc etc etc. This article is completely absurd, completely nerdy (science fiction talk!), & undeniably accurate & well thought out.
+
+2600 is undeniably left leaning politically, but how can it not be? Hackers enjoy being free, & when freedoms are threatened, what choice is their but activism? The EFF (Electronic Frontier Foundation) is one of the only groups I know of where a hacker can actually get politically involved. According to the “EFFECTING DIGITAL FREEDOM” article, the right we earned back in 1996 (CDA Section 230) by blacking out our homepage’s (yes I did this, but my page was already black. I shoulda done the blue ribbon, but whatevs! Lol) is being threatened by SESTA (Stop Enabling Sex Traffickers Act). So once again, a good idea is being implemented wrong. Look it up if you care about politics, I don’t think my voice is heard my many, so I’ll leave it to the loud mouths to save us (unless somebody can make it fun for me. Any music show organizers out there???)
+
+As usual, the letters are lame, & may provide a good laugh to somebody stoned??? I wouldn’t know, cuz I was mostly cringing.
+
+Most of the other articles were basic info, don’t pertain to me, or read like a college term paper (references references references!!!).
+
+If you haven’t decided on purchasing this issue, I hope my description here helps.
+
+Happy Hacking!
+-JJ
